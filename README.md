@@ -15,10 +15,11 @@
 
 
 ### Setting up the environment:
+
 1.**Ensure Python and Django are installed. Install Django using the command**:
- -pip install django
+- pip install django
     ```
-2. **Project Setup**:*
+2. **Project Setup**:
 - Open a terminal.
 - Navigate to your project directory using:
   ```
