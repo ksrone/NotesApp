@@ -13,12 +13,12 @@
 #### Explore the functionalities of our application in real-time. 
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://vimeo.com/939613632)
 
-### Setting up the environment:
 
 ### Setting up the environment:
-1. Ensure Python and Django are installed. Install Django using the command:
+1.**Ensure Python and Django are installed. Install Django using the command**:
  -pip install django
-2. **Project Setup**:
+    ```
+2. **Project Setup**:*
 - Open a terminal.
 - Navigate to your project directory using:
   ```
